@@ -60,8 +60,7 @@ Clona el repositorio:
 
 
 bash
-Copiar
-Editar
+
 git clone https://github.com/EisenDC/retail-sales-prediction.git
 cd retail-sales-prediction
 
