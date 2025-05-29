@@ -1,0 +1,2 @@
+2025-05-29 09:43:02,198 - INFO - Transformación completada. Mejor modelo: LightGBM
+2025-05-29 09:43:02,199 - INFO - MAE LinearRegression: 23.51 | MAE LightGBM: 19.74
